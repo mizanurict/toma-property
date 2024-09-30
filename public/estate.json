@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Condo with City Views",
+      "segment_name": "Residential",
+      "description": "Stunning condo located in the heart of the city with panoramic views. Features spacious living area, modern kitchen, and luxurious amenities.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Downtown, Metropolis",
+      "facilities": ["living room", "swimming pool", "gym", "parking garage"],
+      "image": "https://i.ibb.co/J7Xq5Pf/512564717.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Cozy Family Home in Suburbia",
+      "segment_name": "Residential",
+      "description": "Charming family home situated in a quiet suburban neighborhood. Features spacious backyard, updated kitchen, and cozy living spaces.",
+      "price": "$350,000",
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "Green Valley Suburb",
+      "facilities": ["living room", "kitchen", "backyard", "garage"],
+      "image": "https://i.ibb.co/HtGt25f/24788-1.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Luxury Penthouse with Ocean Views",
+      "segment_name": "Residential",
+      "description": "Exquisite penthouse overlooking the ocean, featuring lavish interiors, private terrace, and exclusive amenities.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Seaside Boulevard",
+      "facilities": ["living room", "swimming pool", "terrace", "gym"],
+      "image": "https://i.ibb.co/ZH61Vqc/Contemporary-Penthouse-Miami-Smiros-Smiros-02-1-Kindesign.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Downtown Loft with Industrial Charm",
+      "segment_name": "Residential",
+      "description": "Unique loft space in the heart of downtown, boasting industrial-chic design, open floor plan, and convenient access to urban amenities.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Arts District, Metro City",
+      "facilities": ["living room", "kitchen", "workspace", "parking"],
+      "image": "https://i.ibb.co/dQLKvhV/Small-living-room-idea-for-an-industrial-loft.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Modern Apartment with Skyline Views",
+      "segment_name": "Residential",
+      "description": "Sleek apartment with breathtaking skyline views, featuring contemporary design, upscale finishes, and convenient access to city attractions.",
+      "price": "$800,000",
+      "status": "rent",
+      "area": "1600 sq ft",
+      "location": "Skyline Towers, Downtown",
+      "facilities": ["living room", "swimming pool", "gym", "concierge"],
+      "image": "https://i.ibb.co/Bs1BC73/9cf539d4020a13a30962ca323e06135f.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Spacious Villa with Mountain Retreat",
+      "segment_name": "Residential",
+      "description": "Expansive villa nestled in the mountains, offering tranquility and luxury. Features lush gardens, private pool, and panoramic views.",
+      "price": "$1,500,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Mountain Valley Estates",
+      "facilities": ["living room", "swimming pool", "garden", "game room"],
+      "image": "https://i.ibb.co/M9VYgDs/Image.jpg"
+    }
+  ]
